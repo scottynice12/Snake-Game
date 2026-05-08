@@ -18,3 +18,13 @@ Each food eaten gives you level × 10 points. Every 100 points, the level goes u
 
 Controls
 Arrow keys change the nextDir variable (next direction). The current direction only updates at the start of each tick, which prevents you from reversing into yourself by pressing two keys quickly. The d-pad buttons on screen do the exact same thing. Space starts the game or toggles pause.
+
+When you're finished making it:
+1. Enable GitHub Pages
+Click Settings (top tab in your repo)
+Scroll down to Pages in the left sidebar
+Under "Branch", select main and keep the folder as / (root)
+Click Save
+2. Wait ~1 minute
+Refresh the Pages settings and a green banner will appear with your live link: 
+It will have your username and a website link.
